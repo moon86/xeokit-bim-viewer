@@ -14,10 +14,6 @@
             1.0
         ]
     },
-    "IfcColumn": {
-        "colorize": [0.137255, 0.403922, 0.870588],
-        "priority": 3
-    },
     "viewerContent": {
         "modelsLoaded": [
             "design"
