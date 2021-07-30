@@ -1,0 +1,28 @@
+{
+    "id": "LevalloisV2",
+    "name": "LevalloisV2",
+    "models": [
+        {
+            "id": "design",
+            "name": "Levallois 3D Model"
+        }
+    ],
+    "viewerConfigs": {
+        "backgroundColor": [
+            0.95,
+            0.95,
+            1.0
+        ]
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "objects",
+        "expandObjectsTree": 3,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}
